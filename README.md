@@ -19,7 +19,6 @@ Model zoom: https://zenodo.org/record/8031783
     <img src="https://img.shields.io/github/stars/A4Bio/OpenCPD" /></a>
 </p>
 
-[📘Documentation](https://openstl.readthedocs.io/en/latest/) |
 [🛠️Installation](docs/en/install.md) |
 [🚀Model Zoo](docs/en/model_zoos/video_benchmarks.md) |
 [🆕News](docs/en/changelog.md)
