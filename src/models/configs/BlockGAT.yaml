@@ -1,0 +1,11 @@
+geo_layer: 3
+attn_layer: 3
+node_layer: 3
+edge_layer: 3
+encoder_layer: 10
+hidden_dim: 128
+dropout: 0.0
+k_neighbors: 30
+virtual_frame_num: 3
+virtual_atom_num: 24
+mask_rate: 0.05
